@@ -18,12 +18,15 @@
 - **HTML/Tailwind CSS:** تصميم واجهات مرنة وجذابة
 - **SQL/ MySQL / PostgreSQL:** إدارة قواعد البيانات وعمليات الـ CRUD
 
-###  والتقنيات:
-- **Laravel:** بناء APIs ولوحات تحكم احترافية
-- **Vue.js:** إنشاء تطبيقات أمامية ديناميكية
-- **Flowbite:** تصميم واجهات المستخدم باستخدام Tailwind CSS
-- **Bootstrap:** تحسين تجربة المستخدم في التطبيقات
-- **Git/GitHub:** إدارة التعليمات البرمجية بشكل احترافي
+# قائمة بالمجالات التي عملت عليها
+
+- Multi-Tenancy
+- SaaS (Software as a Service)
+- Web Scraping
+- API Development
+- Cloud & Microservices
+- Performance Optimization
+
 
 ## إحصائيات لغات البرمجة
 
