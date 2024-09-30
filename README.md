@@ -14,11 +14,11 @@
 ### لغات البرمجة:
 - **Dart/Flutter:** تطوير تطبيقات موبايل عالية الأداء
 - **PHP/Laravel:** بناء الـ APIs وأنظمة المصادقة
-- **JavaScript/Vue.js:** تطوير واجهات المستخدم التفاعلية
-- **HTML/CSS/Tailwind CSS:** تصميم واجهات مرنة وجذابة
-- **SQL:** إدارة قواعد البيانات وعمليات الـ CRUD
+- **JavaScript/Bootstrap/jQ:** تطوير واجهات المستخدم التفاعلية
+- **HTML/Tailwind CSS:** تصميم واجهات مرنة وجذابة
+- **SQL/ MySQL / PostgreSQL:** إدارة قواعد البيانات وعمليات الـ CRUD
 
-### الأدوات والتقنيات:
+###  والتقنيات:
 - **Laravel:** بناء APIs ولوحات تحكم احترافية
 - **Vue.js:** إنشاء تطبيقات أمامية ديناميكية
 - **Flowbite:** تصميم واجهات المستخدم باستخدام Tailwind CSS
@@ -32,8 +32,8 @@
 ```mermaid
 pie
     title نسبة استخدام لغات البرمجة
-    "Dart/Flutter": 40
-    "PHP/Laravel": 30
-    "JavaScript/Vue.js": 15
-    "HTML/CSS/Tailwind": 10
-    "SQL": 5
+    "Dart/Flutter": 35
+    "PHP/Laravel": 25
+    "JavaScript/Bootstrap/jQ": 15
+    "HTML/Tailwind": 10
+    "SQL": 15
