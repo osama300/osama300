@@ -7,14 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osama300&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### إحصائية اللغات المستخدمة في جميع مشاريعي
 
-```mermaid
-pie
-    title نسبة استخدام لغات البرمجة
-    "Dart/Flutter": 35
-    "PHP/Laravel": 25
-    "JavaScript/Vue.js": 20
-    "HTML/CSS/Tailwind": 15
-    "SQL": 5
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
