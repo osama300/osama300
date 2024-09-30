@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Osamah Qaid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+### إحصائية اللغات المستخدمة في جميع مشاريعي
+
+```mermaid
+pie
+    title نسبة استخدام لغات البرمجة
+    "Dart/Flutter": 35
+    "PHP/Laravel": 25
+    "JavaScript/Vue.js": 20
+    "HTML/CSS/Tailwind": 15
+    "SQL": 5
+
+
 
 ### لغات البرمجة التي أستخدمها
 
