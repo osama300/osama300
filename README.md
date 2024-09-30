@@ -18,7 +18,7 @@
 - **HTML/Tailwind CSS:** تصميم واجهات مرنة وجذابة
 - **SQL/ MySQL / PostgreSQL:** إدارة قواعد البيانات وعمليات الـ CRUD
 
-# قائمة بالمجالات التي عملت عليها
+# مجالات الخبرة التقنية المتقدمة
 
 - Multi-Tenancy
 - SaaS (Software as a Service)
